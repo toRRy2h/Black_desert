@@ -561,7 +561,8 @@ body {
     margin-bottom: 390px;
     position: absolute;
     top: 2771px;
-    left: 567px;
+    left: -295px;
+    margin: 0;
 }
 
 .designer>span {
@@ -706,7 +707,7 @@ body {
     border-radius: 17px;
     position: absolute;
     top: 2691px;
-    right: 600px;
+    right: 528px;
 }
 
 .krug_3 {
